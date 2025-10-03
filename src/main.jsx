@@ -3,7 +3,7 @@ import { createRoot } from 'react-dom/client'
 import './index.css'
 import App from './App.jsx'
 import CreateRoom from "./component/pages/CreateRoom.jsx";
-import Game from "./component/gamePage/game.jsx";
+import Game from "./component/gamePage/Game.jsx";
 import Room from "./component/pages/Room.jsx";
 
 createRoot(document.getElementById('root')).render(
